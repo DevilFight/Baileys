@@ -1,7 +1,7 @@
 # DevilFight/Baileys - WhatsApp Bot Framework 2026 Spesial Edition
 
 <p align="center">
-  <img src="https://files.catbox.moe/1z94w7.jpeg" width="300" alt="DevilFight/Baileys" />
+  <img src="https://ar-hosting.pages.dev/1776085648324.png" width="300" alt="DevilFight/Baileys" />
 </p>
 
 <p align="center">
